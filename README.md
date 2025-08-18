@@ -5,7 +5,7 @@
 ---
 
 ### ✧
-👩‍💻 iOS Developer | Open to new opportunities  
+👩‍💻 iOS Developer | Open to new opportunities and collaboration  
 • Swift | UIKit | SwiftUI | MVP | MVVM | Core Data | Unit & UI Testing  
 • Built apps with mentors and in team projects, actively contributed to code reviews  
 • Graduate of Yandex Practicum    
@@ -14,7 +14,7 @@
 ---
 
 ### ✧
-👩‍💻 iOS-разработчик | Открыта к новым возможностям  
+👩‍💻 iOS-разработчик | Открыта к новым возможностям и сотрудничеству    
 • Swift | UIKit | SwiftUI | MVP | MVVM | Core Data | Unit- и UI- тестирование  
 • Разрабатывала приложения с наставниками и в командных проектах, активно участвовала в код-ревью  
 • Выпускница Яндекс Практикума    
